@@ -49,9 +49,6 @@ export default function New({ history }){
                 value = {company}
                 onChange = {event => setCompany(event.target.value)} />
 
-            
-            
-
             <label htmlFor = "techs">TECNOLOGIAS <span>separadas por virgula</span></label>
             <input
                 id = "techs"

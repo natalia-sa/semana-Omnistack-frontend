@@ -7,7 +7,7 @@ import Routes from './routes';
 // sempre que for incluir um codigo javascript dentro dohtml usa {}
 function App() {
   return (
-    // colocando a logo no site
+    
     <div className = "container">
       <img src={logo} alt = "AirCnC" />
 
