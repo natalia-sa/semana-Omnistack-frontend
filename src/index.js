@@ -1,0 +1,13 @@
+import React from 'react';
+// o tipo de interface que será criada
+import ReactDOM from 'react-dom';
+import App from './App';
+
+ReactDOM.render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>,
+  document.getElementById('root')
+);
+
+
